@@ -1,3 +1,0 @@
-function productsPage() {
-  productsPage = getElementById()
-}
