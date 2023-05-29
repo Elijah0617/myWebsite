@@ -1,0 +1,3 @@
+function productsPage() {
+  productsPage = getElementById()
+}

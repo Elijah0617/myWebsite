@@ -1,0 +1,42 @@
+body {
+  background-color: rgb(255, 255, 255);
+}
+
+.wrapper-main {
+  width: 900px;
+  margin: 0 auto;
+}
+
+table {
+  width: 100%;
+}
+
+.bottle-1 {
+  height: 20px;
+  display: flexbot;
+}
+
+.bottle-2 {
+  height: 20px;
+  display: flexbot;
+}
+
+.bottle-3 {
+  height: 20px;
+  display: flexbot;
+}
+
+.bottle-4 {
+  height: 20px;
+  display: flexbot;
+}
+
+th {
+  font-weight: bold;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+td {
+  border: 1px solid rgb(0, 0, 0);
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
